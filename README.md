@@ -12,7 +12,8 @@ gồm có
 "online" vào và thực hiện kết nối.
 # test thử
  trong parse hiện đang có 2 tài khoản
- user : loc , pwd : loc .
+ user : loc , pwd : loc 
+ #
  user : anh , pwd : anh
 
         

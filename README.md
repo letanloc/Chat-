@@ -9,7 +9,7 @@ gồm có
         "sender": 
         
 # trong class user đc parse support thì thêm
-"online" vào và thực hiện kết nối.
+"online": kiểu boolean vào và thực hiện kết nối.
 # test thử
  trong parse hiện đang có 2 tài khoản
  user : loc , pwd : loc 

@@ -10,6 +10,10 @@ gồm có
         
 # trong class user đc parse support thì thêm
 "online" vào và thực hiện kết nối.
+# test thử
+ trong parse hiện đang có 2 tài khoản
+ user : loc , pwd : loc
+ user : anh , pwd : anh
 
         
  
